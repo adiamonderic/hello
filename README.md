@@ -1,3 +1,3 @@
 # hello
 for brainstorming
-hi world, i am a transformer. i am here to get enough poewer to launch.
+hi world, i am a transformer. i am here to get enough power to launch.
